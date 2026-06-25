@@ -1,0 +1,2008 @@
+{
+    "vehicles": [
+        {
+            "vehicle": "TRK001",
+            "speed": 50
+        },
+        {
+            "vehicle": "TRK002",
+            "speed": 57
+        },
+        {
+            "vehicle": "TRK003",
+            "speed": 73
+        },
+        {
+            "vehicle": "TRK004",
+            "speed": 104
+        },
+        {
+            "vehicle": "TRK005",
+            "speed": 52
+        },
+        {
+            "vehicle": "TRK006",
+            "speed": 51
+        },
+        {
+            "vehicle": "TRK007",
+            "speed": 87
+        },
+        {
+            "vehicle": "TRK008",
+            "speed": 69
+        },
+        {
+            "vehicle": "TRK009",
+            "speed": 87
+        },
+        {
+            "vehicle": "TRK010",
+            "speed": 72
+        },
+        {
+            "vehicle": "TRK011",
+            "speed": 57
+        },
+        {
+            "vehicle": "TRK012",
+            "speed": 58
+        },
+        {
+            "vehicle": "TRK013",
+            "speed": 50
+        },
+        {
+            "vehicle": "TRK014",
+            "speed": 55
+        },
+        {
+            "vehicle": "TRK015",
+            "speed": 60
+        },
+        {
+            "vehicle": "TRK016",
+            "speed": 56
+        },
+        {
+            "vehicle": "TRK017",
+            "speed": 60
+        },
+        {
+            "vehicle": "TRK018",
+            "speed": 93
+        },
+        {
+            "vehicle": "TRK019",
+            "speed": 108
+        },
+        {
+            "vehicle": "TRK020",
+            "speed": 58
+        },
+        {
+            "vehicle": "TRK021",
+            "speed": 73
+        },
+        {
+            "vehicle": "TRK022",
+            "speed": 53
+        },
+        {
+            "vehicle": "TRK023",
+            "speed": 62
+        },
+        {
+            "vehicle": "TRK024",
+            "speed": 90
+        },
+        {
+            "vehicle": "TRK025",
+            "speed": 69
+        },
+        {
+            "vehicle": "TRK026",
+            "speed": 61
+        },
+        {
+            "vehicle": "TRK027",
+            "speed": 72
+        },
+        {
+            "vehicle": "TRK028",
+            "speed": 102
+        },
+        {
+            "vehicle": "TRK029",
+            "speed": 59
+        },
+        {
+            "vehicle": "TRK030",
+            "speed": 77
+        },
+        {
+            "vehicle": "TRK031",
+            "speed": 53
+        },
+        {
+            "vehicle": "TRK032",
+            "speed": 64
+        },
+        {
+            "vehicle": "TRK033",
+            "speed": 61
+        },
+        {
+            "vehicle": "TRK034",
+            "speed": 61
+        },
+        {
+            "vehicle": "TRK035",
+            "speed": 58
+        },
+        {
+            "vehicle": "TRK036",
+            "speed": 71
+        },
+        {
+            "vehicle": "TRK037",
+            "speed": 69
+        },
+        {
+            "vehicle": "TRK038",
+            "speed": 67
+        },
+        {
+            "vehicle": "TRK039",
+            "speed": 55
+        },
+        {
+            "vehicle": "TRK040",
+            "speed": 58
+        },
+        {
+            "vehicle": "TRK041",
+            "speed": 70
+        },
+        {
+            "vehicle": "TRK042",
+            "speed": 57
+        },
+        {
+            "vehicle": "TRK043",
+            "speed": 76
+        },
+        {
+            "vehicle": "TRK044",
+            "speed": 51
+        },
+        {
+            "vehicle": "TRK045",
+            "speed": 51
+        },
+        {
+            "vehicle": "TRK046",
+            "speed": 62
+        },
+        {
+            "vehicle": "TRK047",
+            "speed": 56
+        },
+        {
+            "vehicle": "TRK048",
+            "speed": 68
+        },
+        {
+            "vehicle": "TRK049",
+            "speed": 60
+        },
+        {
+            "vehicle": "TRK050",
+            "speed": 65
+        },
+        {
+            "vehicle": "TRK051",
+            "speed": 79
+        },
+        {
+            "vehicle": "TRK052",
+            "speed": 54
+        },
+        {
+            "vehicle": "TRK053",
+            "speed": 57
+        },
+        {
+            "vehicle": "TRK054",
+            "speed": 67
+        },
+        {
+            "vehicle": "TRK055",
+            "speed": 68
+        },
+        {
+            "vehicle": "TRK056",
+            "speed": 68
+        },
+        {
+            "vehicle": "TRK057",
+            "speed": 57
+        },
+        {
+            "vehicle": "TRK058",
+            "speed": 54
+        },
+        {
+            "vehicle": "TRK059",
+            "speed": 52
+        },
+        {
+            "vehicle": "TRK060",
+            "speed": 77
+        },
+        {
+            "vehicle": "TRK061",
+            "speed": 101
+        },
+        {
+            "vehicle": "TRK062",
+            "speed": 71
+        },
+        {
+            "vehicle": "TRK063",
+            "speed": 52
+        },
+        {
+            "vehicle": "TRK064",
+            "speed": 69
+        },
+        {
+            "vehicle": "TRK065",
+            "speed": 66
+        },
+        {
+            "vehicle": "TRK066",
+            "speed": 67
+        },
+        {
+            "vehicle": "TRK067",
+            "speed": 50
+        },
+        {
+            "vehicle": "TRK068",
+            "speed": 53
+        },
+        {
+            "vehicle": "TRK069",
+            "speed": 67
+        },
+        {
+            "vehicle": "TRK070",
+            "speed": 74
+        },
+        {
+            "vehicle": "TRK071",
+            "speed": 53
+        },
+        {
+            "vehicle": "TRK072",
+            "speed": 55
+        },
+        {
+            "vehicle": "TRK073",
+            "speed": 73
+        },
+        {
+            "vehicle": "TRK074",
+            "speed": 58
+        },
+        {
+            "vehicle": "TRK075",
+            "speed": 74
+        },
+        {
+            "vehicle": "TRK076",
+            "speed": 79
+        },
+        {
+            "vehicle": "TRK077",
+            "speed": 101
+        },
+        {
+            "vehicle": "TRK078",
+            "speed": 70
+        },
+        {
+            "vehicle": "TRK079",
+            "speed": 56
+        },
+        {
+            "vehicle": "TRK080",
+            "speed": 74
+        },
+        {
+            "vehicle": "TRK081",
+            "speed": 74
+        },
+        {
+            "vehicle": "TRK082",
+            "speed": 79
+        },
+        {
+            "vehicle": "TRK083",
+            "speed": 91
+        },
+        {
+            "vehicle": "TRK084",
+            "speed": 53
+        },
+        {
+            "vehicle": "TRK085",
+            "speed": 78
+        },
+        {
+            "vehicle": "TRK086",
+            "speed": 75
+        },
+        {
+            "vehicle": "TRK087",
+            "speed": 51
+        },
+        {
+            "vehicle": "TRK088",
+            "speed": 68
+        },
+        {
+            "vehicle": "TRK089",
+            "speed": 52
+        },
+        {
+            "vehicle": "TRK090",
+            "speed": 76
+        },
+        {
+            "vehicle": "TRK091",
+            "speed": 105
+        },
+        {
+            "vehicle": "TRK092",
+            "speed": 54
+        },
+        {
+            "vehicle": "TRK093",
+            "speed": 96
+        },
+        {
+            "vehicle": "TRK094",
+            "speed": 55
+        },
+        {
+            "vehicle": "TRK095",
+            "speed": 77
+        },
+        {
+            "vehicle": "TRK096",
+            "speed": 56
+        },
+        {
+            "vehicle": "TRK097",
+            "speed": 74
+        },
+        {
+            "vehicle": "TRK098",
+            "speed": 56
+        },
+        {
+            "vehicle": "TRK099",
+            "speed": 62
+        },
+        {
+            "vehicle": "TRK100",
+            "speed": 70
+        },
+        {
+            "vehicle": "TRK101",
+            "speed": 78
+        },
+        {
+            "vehicle": "TRK102",
+            "speed": 53
+        },
+        {
+            "vehicle": "TRK103",
+            "speed": 52
+        },
+        {
+            "vehicle": "TRK104",
+            "speed": 68
+        },
+        {
+            "vehicle": "TRK105",
+            "speed": 68
+        },
+        {
+            "vehicle": "TRK106",
+            "speed": 52
+        },
+        {
+            "vehicle": "TRK107",
+            "speed": 51
+        },
+        {
+            "vehicle": "TRK108",
+            "speed": 78
+        },
+        {
+            "vehicle": "TRK109",
+            "speed": 91
+        },
+        {
+            "vehicle": "TRK110",
+            "speed": 88
+        },
+        {
+            "vehicle": "TRK111",
+            "speed": 65
+        },
+        {
+            "vehicle": "TRK112",
+            "speed": 54
+        },
+        {
+            "vehicle": "TRK113",
+            "speed": 78
+        },
+        {
+            "vehicle": "TRK114",
+            "speed": 65
+        },
+        {
+            "vehicle": "TRK115",
+            "speed": 65
+        },
+        {
+            "vehicle": "TRK116",
+            "speed": 56
+        },
+        {
+            "vehicle": "TRK117",
+            "speed": 102
+        },
+        {
+            "vehicle": "TRK118",
+            "speed": 63
+        },
+        {
+            "vehicle": "TRK119",
+            "speed": 77
+        },
+        {
+            "vehicle": "TRK120",
+            "speed": 71
+        },
+        {
+            "vehicle": "TRK121",
+            "speed": 70
+        },
+        {
+            "vehicle": "TRK122",
+            "speed": 93
+        },
+        {
+            "vehicle": "TRK123",
+            "speed": 75
+        },
+        {
+            "vehicle": "TRK124",
+            "speed": 57
+        },
+        {
+            "vehicle": "TRK125",
+            "speed": 67
+        },
+        {
+            "vehicle": "TRK126",
+            "speed": 63
+        },
+        {
+            "vehicle": "TRK127",
+            "speed": 64
+        },
+        {
+            "vehicle": "TRK128",
+            "speed": 79
+        },
+        {
+            "vehicle": "TRK129",
+            "speed": 106
+        },
+        {
+            "vehicle": "TRK130",
+            "speed": 67
+        },
+        {
+            "vehicle": "TRK131",
+            "speed": 101
+        },
+        {
+            "vehicle": "TRK132",
+            "speed": 76
+        },
+        {
+            "vehicle": "TRK133",
+            "speed": 83
+        },
+        {
+            "vehicle": "TRK134",
+            "speed": 77
+        },
+        {
+            "vehicle": "TRK135",
+            "speed": 63
+        },
+        {
+            "vehicle": "TRK136",
+            "speed": 56
+        },
+        {
+            "vehicle": "TRK137",
+            "speed": 78
+        },
+        {
+            "vehicle": "TRK138",
+            "speed": 93
+        },
+        {
+            "vehicle": "TRK139",
+            "speed": 93
+        },
+        {
+            "vehicle": "TRK140",
+            "speed": 75
+        },
+        {
+            "vehicle": "TRK141",
+            "speed": 59
+        },
+        {
+            "vehicle": "TRK142",
+            "speed": 73
+        },
+        {
+            "vehicle": "TRK143",
+            "speed": 67
+        },
+        {
+            "vehicle": "TRK144",
+            "speed": 65
+        },
+        {
+            "vehicle": "TRK145",
+            "speed": 59
+        },
+        {
+            "vehicle": "TRK146",
+            "speed": 51
+        },
+        {
+            "vehicle": "TRK147",
+            "speed": 67
+        },
+        {
+            "vehicle": "TRK148",
+            "speed": 91
+        },
+        {
+            "vehicle": "TRK149",
+            "speed": 99
+        },
+        {
+            "vehicle": "TRK150",
+            "speed": 79
+        }
+    ],
+    "inventory": [
+        {
+            "item": "Medicine #158",
+            "stock": 40
+        },
+        {
+            "item": "Medicine #170",
+            "stock": 80
+        },
+        {
+            "item": "Sugar #222",
+            "stock": 83
+        },
+        {
+            "item": "Rice #734",
+            "stock": 19
+        },
+        {
+            "item": "Oil #367",
+            "stock": 100
+        },
+        {
+            "item": "Water #371",
+            "stock": 96
+        },
+        {
+            "item": "Coffee #423",
+            "stock": 38
+        },
+        {
+            "item": "Rice #569",
+            "stock": 45
+        },
+        {
+            "item": "Milk #650",
+            "stock": 87
+        },
+        {
+            "item": "Medicine #457",
+            "stock": 82
+        },
+        {
+            "item": "Oil #391",
+            "stock": 97
+        },
+        {
+            "item": "Rice #783",
+            "stock": 96
+        },
+        {
+            "item": "Milk #999",
+            "stock": 49
+        },
+        {
+            "item": "Milk #860",
+            "stock": 89
+        },
+        {
+            "item": "Flour #719",
+            "stock": 107
+        },
+        {
+            "item": "Water #803",
+            "stock": 87
+        },
+        {
+            "item": "Coffee #357",
+            "stock": 33
+        },
+        {
+            "item": "Milk #749",
+            "stock": 90
+        },
+        {
+            "item": "Rice #103",
+            "stock": 53
+        },
+        {
+            "item": "Flour #265",
+            "stock": 129
+        },
+        {
+            "item": "Rice #214",
+            "stock": 5
+        },
+        {
+            "item": "Rice #954",
+            "stock": 57
+        },
+        {
+            "item": "Sugar #230",
+            "stock": 12
+        },
+        {
+            "item": "Rice #466",
+            "stock": 83
+        },
+        {
+            "item": "Milk #462",
+            "stock": 124
+        },
+        {
+            "item": "Medicine #342",
+            "stock": 65
+        },
+        {
+            "item": "Sugar #125",
+            "stock": 105
+        },
+        {
+            "item": "Sugar #921",
+            "stock": 83
+        },
+        {
+            "item": "Flour #263",
+            "stock": 47
+        },
+        {
+            "item": "Sugar #993",
+            "stock": 16
+        },
+        {
+            "item": "Water #304",
+            "stock": 137
+        },
+        {
+            "item": "Oil #412",
+            "stock": 78
+        },
+        {
+            "item": "Water #124",
+            "stock": 122
+        },
+        {
+            "item": "Oil #385",
+            "stock": 91
+        },
+        {
+            "item": "Oil #756",
+            "stock": 104
+        },
+        {
+            "item": "Rice #218",
+            "stock": 86
+        },
+        {
+            "item": "Medicine #694",
+            "stock": 87
+        },
+        {
+            "item": "Rice #211",
+            "stock": 108
+        },
+        {
+            "item": "Oil #546",
+            "stock": 150
+        },
+        {
+            "item": "Milk #494",
+            "stock": 68
+        },
+        {
+            "item": "Flour #145",
+            "stock": 20
+        },
+        {
+            "item": "Water #472",
+            "stock": 104
+        },
+        {
+            "item": "Oil #779",
+            "stock": 96
+        },
+        {
+            "item": "Flour #782",
+            "stock": 123
+        },
+        {
+            "item": "Flour #667",
+            "stock": 127
+        },
+        {
+            "item": "Sugar #793",
+            "stock": 64
+        },
+        {
+            "item": "Flour #515",
+            "stock": 20
+        },
+        {
+            "item": "Flour #393",
+            "stock": 102
+        },
+        {
+            "item": "Coffee #552",
+            "stock": 74
+        },
+        {
+            "item": "Coffee #912",
+            "stock": 63
+        },
+        {
+            "item": "Milk #390",
+            "stock": 105
+        },
+        {
+            "item": "Milk #938",
+            "stock": 80
+        },
+        {
+            "item": "Flour #330",
+            "stock": 57
+        },
+        {
+            "item": "Rice #147",
+            "stock": 141
+        },
+        {
+            "item": "Milk #566",
+            "stock": 69
+        },
+        {
+            "item": "Sugar #606",
+            "stock": 57
+        },
+        {
+            "item": "Rice #868",
+            "stock": 47
+        },
+        {
+            "item": "Sugar #324",
+            "stock": 138
+        },
+        {
+            "item": "Rice #670",
+            "stock": 51
+        },
+        {
+            "item": "Coffee #236",
+            "stock": 101
+        },
+        {
+            "item": "Coffee #727",
+            "stock": 149
+        },
+        {
+            "item": "Sugar #950",
+            "stock": 134
+        },
+        {
+            "item": "Medicine #861",
+            "stock": 135
+        },
+        {
+            "item": "Flour #869",
+            "stock": 90
+        },
+        {
+            "item": "Coffee #741",
+            "stock": 132
+        },
+        {
+            "item": "Milk #830",
+            "stock": 89
+        },
+        {
+            "item": "Oil #427",
+            "stock": 40
+        },
+        {
+            "item": "Medicine #254",
+            "stock": 59
+        },
+        {
+            "item": "Water #165",
+            "stock": 104
+        },
+        {
+            "item": "Coffee #525",
+            "stock": 14
+        },
+        {
+            "item": "Sugar #888",
+            "stock": 25
+        },
+        {
+            "item": "Sugar #588",
+            "stock": 12
+        },
+        {
+            "item": "Flour #871",
+            "stock": 127
+        },
+        {
+            "item": "Water #599",
+            "stock": 131
+        },
+        {
+            "item": "Coffee #129",
+            "stock": 123
+        },
+        {
+            "item": "Medicine #960",
+            "stock": 52
+        },
+        {
+            "item": "Rice #503",
+            "stock": 26
+        },
+        {
+            "item": "Milk #758",
+            "stock": 138
+        },
+        {
+            "item": "Medicine #151",
+            "stock": 103
+        },
+        {
+            "item": "Water #565",
+            "stock": 117
+        },
+        {
+            "item": "Flour #870",
+            "stock": 127
+        },
+        {
+            "item": "Flour #954",
+            "stock": 1
+        },
+        {
+            "item": "Rice #458",
+            "stock": 37
+        },
+        {
+            "item": "Rice #872",
+            "stock": 8
+        },
+        {
+            "item": "Water #959",
+            "stock": 5
+        },
+        {
+            "item": "Water #229",
+            "stock": 49
+        },
+        {
+            "item": "Water #576",
+            "stock": 114
+        },
+        {
+            "item": "Medicine #720",
+            "stock": 49
+        },
+        {
+            "item": "Medicine #418",
+            "stock": 26
+        },
+        {
+            "item": "Flour #689",
+            "stock": 116
+        },
+        {
+            "item": "Sugar #832",
+            "stock": 82
+        },
+        {
+            "item": "Milk #813",
+            "stock": 50
+        },
+        {
+            "item": "Rice #455",
+            "stock": 114
+        },
+        {
+            "item": "Milk #618",
+            "stock": 23
+        },
+        {
+            "item": "Sugar #942",
+            "stock": 130
+        },
+        {
+            "item": "Oil #750",
+            "stock": 137
+        },
+        {
+            "item": "Medicine #545",
+            "stock": 89
+        },
+        {
+            "item": "Coffee #576",
+            "stock": 88
+        },
+        {
+            "item": "Oil #972",
+            "stock": 42
+        },
+        {
+            "item": "Flour #561",
+            "stock": 138
+        },
+        {
+            "item": "Sugar #444",
+            "stock": 11
+        },
+        {
+            "item": "Medicine #599",
+            "stock": 86
+        },
+        {
+            "item": "Oil #386",
+            "stock": 90
+        },
+        {
+            "item": "Rice #629",
+            "stock": 41
+        },
+        {
+            "item": "Water #837",
+            "stock": 81
+        },
+        {
+            "item": "Coffee #761",
+            "stock": 134
+        },
+        {
+            "item": "Rice #195",
+            "stock": 123
+        },
+        {
+            "item": "Water #413",
+            "stock": 114
+        },
+        {
+            "item": "Coffee #666",
+            "stock": 128
+        },
+        {
+            "item": "Oil #460",
+            "stock": 89
+        },
+        {
+            "item": "Flour #357",
+            "stock": 69
+        },
+        {
+            "item": "Oil #222",
+            "stock": 67
+        },
+        {
+            "item": "Water #321",
+            "stock": 90
+        },
+        {
+            "item": "Flour #202",
+            "stock": 95
+        },
+        {
+            "item": "Water #469",
+            "stock": 23
+        },
+        {
+            "item": "Medicine #380",
+            "stock": 2
+        },
+        {
+            "item": "Flour #814",
+            "stock": 145
+        },
+        {
+            "item": "Milk #993",
+            "stock": 10
+        },
+        {
+            "item": "Coffee #590",
+            "stock": 67
+        },
+        {
+            "item": "Rice #358",
+            "stock": 142
+        },
+        {
+            "item": "Milk #941",
+            "stock": 16
+        },
+        {
+            "item": "Milk #690",
+            "stock": 33
+        },
+        {
+            "item": "Medicine #252",
+            "stock": 97
+        },
+        {
+            "item": "Milk #354",
+            "stock": 126
+        },
+        {
+            "item": "Water #894",
+            "stock": 135
+        },
+        {
+            "item": "Coffee #404",
+            "stock": 129
+        },
+        {
+            "item": "Flour #682",
+            "stock": 45
+        },
+        {
+            "item": "Water #740",
+            "stock": 40
+        },
+        {
+            "item": "Medicine #345",
+            "stock": 39
+        },
+        {
+            "item": "Medicine #102",
+            "stock": 140
+        },
+        {
+            "item": "Flour #133",
+            "stock": 92
+        },
+        {
+            "item": "Coffee #172",
+            "stock": 87
+        },
+        {
+            "item": "Water #535",
+            "stock": 77
+        },
+        {
+            "item": "Medicine #372",
+            "stock": 38
+        },
+        {
+            "item": "Rice #269",
+            "stock": 93
+        },
+        {
+            "item": "Coffee #227",
+            "stock": 97
+        },
+        {
+            "item": "Sugar #378",
+            "stock": 146
+        },
+        {
+            "item": "Coffee #182",
+            "stock": 130
+        },
+        {
+            "item": "Oil #718",
+            "stock": 43
+        },
+        {
+            "item": "Water #790",
+            "stock": 25
+        },
+        {
+            "item": "Flour #690",
+            "stock": 6
+        },
+        {
+            "item": "Coffee #631",
+            "stock": 91
+        },
+        {
+            "item": "Medicine #699",
+            "stock": 145
+        },
+        {
+            "item": "Milk #581",
+            "stock": 105
+        },
+        {
+            "item": "Oil #786",
+            "stock": 61
+        },
+        {
+            "item": "Oil #521",
+            "stock": 93
+        },
+        {
+            "item": "Sugar #933",
+            "stock": 29
+        },
+        {
+            "item": "Coffee #190",
+            "stock": 102
+        },
+        {
+            "item": "Milk #891",
+            "stock": 20
+        },
+        {
+            "item": "Coffee #523",
+            "stock": 17
+        }
+    ],
+    "fleet": [
+        {
+            "vehicle": "TRK001",
+            "idle_hours": 1.9
+        },
+        {
+            "vehicle": "TRK002",
+            "idle_hours": 1.9
+        },
+        {
+            "vehicle": "TRK003",
+            "idle_hours": 1.4
+        },
+        {
+            "vehicle": "TRK004",
+            "idle_hours": 1.1
+        },
+        {
+            "vehicle": "TRK005",
+            "idle_hours": 0.3
+        },
+        {
+            "vehicle": "TRK006",
+            "idle_hours": 1.5
+        },
+        {
+            "vehicle": "TRK007",
+            "idle_hours": 0.4
+        },
+        {
+            "vehicle": "TRK008",
+            "idle_hours": 1.4
+        },
+        {
+            "vehicle": "TRK009",
+            "idle_hours": 11.9
+        },
+        {
+            "vehicle": "TRK010",
+            "idle_hours": 1.2
+        },
+        {
+            "vehicle": "TRK011",
+            "idle_hours": 10.5
+        },
+        {
+            "vehicle": "TRK012",
+            "idle_hours": 1.8
+        },
+        {
+            "vehicle": "TRK013",
+            "idle_hours": 0.7
+        },
+        {
+            "vehicle": "TRK014",
+            "idle_hours": 2.5
+        },
+        {
+            "vehicle": "TRK015",
+            "idle_hours": 1.4
+        },
+        {
+            "vehicle": "TRK016",
+            "idle_hours": 2.3
+        },
+        {
+            "vehicle": "TRK017",
+            "idle_hours": 2.2
+        },
+        {
+            "vehicle": "TRK018",
+            "idle_hours": 0.7
+        },
+        {
+            "vehicle": "TRK019",
+            "idle_hours": 1.0
+        },
+        {
+            "vehicle": "TRK020",
+            "idle_hours": 1.3
+        },
+        {
+            "vehicle": "TRK021",
+            "idle_hours": 0.7
+        },
+        {
+            "vehicle": "TRK022",
+            "idle_hours": 1.5
+        },
+        {
+            "vehicle": "TRK023",
+            "idle_hours": 1.2
+        },
+        {
+            "vehicle": "TRK024",
+            "idle_hours": 7.9
+        },
+        {
+            "vehicle": "TRK025",
+            "idle_hours": 1.4
+        },
+        {
+            "vehicle": "TRK026",
+            "idle_hours": 1.1
+        },
+        {
+            "vehicle": "TRK027",
+            "idle_hours": 0.5
+        },
+        {
+            "vehicle": "TRK028",
+            "idle_hours": 1.4
+        },
+        {
+            "vehicle": "TRK029",
+            "idle_hours": 1.9
+        },
+        {
+            "vehicle": "TRK030",
+            "idle_hours": 9.7
+        },
+        {
+            "vehicle": "TRK031",
+            "idle_hours": 2.0
+        },
+        {
+            "vehicle": "TRK032",
+            "idle_hours": 1.7
+        },
+        {
+            "vehicle": "TRK033",
+            "idle_hours": 2.5
+        },
+        {
+            "vehicle": "TRK034",
+            "idle_hours": 0.1
+        },
+        {
+            "vehicle": "TRK035",
+            "idle_hours": 1.5
+        },
+        {
+            "vehicle": "TRK036",
+            "idle_hours": 2.2
+        },
+        {
+            "vehicle": "TRK037",
+            "idle_hours": 1.3
+        },
+        {
+            "vehicle": "TRK038",
+            "idle_hours": 1.8
+        },
+        {
+            "vehicle": "TRK039",
+            "idle_hours": 1.6
+        },
+        {
+            "vehicle": "TRK040",
+            "idle_hours": 7.3
+        },
+        {
+            "vehicle": "TRK041",
+            "idle_hours": 0.8
+        },
+        {
+            "vehicle": "TRK042",
+            "idle_hours": 1.6
+        },
+        {
+            "vehicle": "TRK043",
+            "idle_hours": 2.1
+        },
+        {
+            "vehicle": "TRK044",
+            "idle_hours": 1.0
+        },
+        {
+            "vehicle": "TRK045",
+            "idle_hours": 1.8
+        },
+        {
+            "vehicle": "TRK046",
+            "idle_hours": 2.2
+        },
+        {
+            "vehicle": "TRK047",
+            "idle_hours": 3.7
+        },
+        {
+            "vehicle": "TRK048",
+            "idle_hours": 2.3
+        },
+        {
+            "vehicle": "TRK049",
+            "idle_hours": 1.9
+        },
+        {
+            "vehicle": "TRK050",
+            "idle_hours": 0.2
+        },
+        {
+            "vehicle": "TRK051",
+            "idle_hours": 2.2
+        },
+        {
+            "vehicle": "TRK052",
+            "idle_hours": 1.7
+        },
+        {
+            "vehicle": "TRK053",
+            "idle_hours": 0.1
+        },
+        {
+            "vehicle": "TRK054",
+            "idle_hours": 0.7
+        },
+        {
+            "vehicle": "TRK055",
+            "idle_hours": 0.4
+        },
+        {
+            "vehicle": "TRK056",
+            "idle_hours": 1.4
+        },
+        {
+            "vehicle": "TRK057",
+            "idle_hours": 0.4
+        },
+        {
+            "vehicle": "TRK058",
+            "idle_hours": 10.9
+        },
+        {
+            "vehicle": "TRK059",
+            "idle_hours": 0.6
+        },
+        {
+            "vehicle": "TRK060",
+            "idle_hours": 0.4
+        },
+        {
+            "vehicle": "TRK061",
+            "idle_hours": 0.6
+        },
+        {
+            "vehicle": "TRK062",
+            "idle_hours": 0.0
+        },
+        {
+            "vehicle": "TRK063",
+            "idle_hours": 2.3
+        },
+        {
+            "vehicle": "TRK064",
+            "idle_hours": 0.4
+        },
+        {
+            "vehicle": "TRK065",
+            "idle_hours": 0.9
+        },
+        {
+            "vehicle": "TRK066",
+            "idle_hours": 1.6
+        },
+        {
+            "vehicle": "TRK067",
+            "idle_hours": 0.6
+        },
+        {
+            "vehicle": "TRK068",
+            "idle_hours": 0.5
+        },
+        {
+            "vehicle": "TRK069",
+            "idle_hours": 1.2
+        },
+        {
+            "vehicle": "TRK070",
+            "idle_hours": 1.4
+        },
+        {
+            "vehicle": "TRK071",
+            "idle_hours": 2.5
+        },
+        {
+            "vehicle": "TRK072",
+            "idle_hours": 2.4
+        },
+        {
+            "vehicle": "TRK073",
+            "idle_hours": 0.7
+        },
+        {
+            "vehicle": "TRK074",
+            "idle_hours": 1.7
+        },
+        {
+            "vehicle": "TRK075",
+            "idle_hours": 0.1
+        },
+        {
+            "vehicle": "TRK076",
+            "idle_hours": 1.2
+        },
+        {
+            "vehicle": "TRK077",
+            "idle_hours": 0.7
+        },
+        {
+            "vehicle": "TRK078",
+            "idle_hours": 1.5
+        },
+        {
+            "vehicle": "TRK079",
+            "idle_hours": 1.6
+        },
+        {
+            "vehicle": "TRK080",
+            "idle_hours": 1.7
+        },
+        {
+            "vehicle": "TRK081",
+            "idle_hours": 1.6
+        },
+        {
+            "vehicle": "TRK082",
+            "idle_hours": 1.6
+        },
+        {
+            "vehicle": "TRK083",
+            "idle_hours": 1.6
+        },
+        {
+            "vehicle": "TRK084",
+            "idle_hours": 1.1
+        },
+        {
+            "vehicle": "TRK085",
+            "idle_hours": 1.8
+        },
+        {
+            "vehicle": "TRK086",
+            "idle_hours": 5.7
+        },
+        {
+            "vehicle": "TRK087",
+            "idle_hours": 0.4
+        },
+        {
+            "vehicle": "TRK088",
+            "idle_hours": 7.9
+        },
+        {
+            "vehicle": "TRK089",
+            "idle_hours": 1.3
+        },
+        {
+            "vehicle": "TRK090",
+            "idle_hours": 2.1
+        },
+        {
+            "vehicle": "TRK091",
+            "idle_hours": 2.1
+        },
+        {
+            "vehicle": "TRK092",
+            "idle_hours": 2.0
+        },
+        {
+            "vehicle": "TRK093",
+            "idle_hours": 0.8
+        },
+        {
+            "vehicle": "TRK094",
+            "idle_hours": 11.7
+        },
+        {
+            "vehicle": "TRK095",
+            "idle_hours": 11.7
+        },
+        {
+            "vehicle": "TRK096",
+            "idle_hours": 1.8
+        },
+        {
+            "vehicle": "TRK097",
+            "idle_hours": 2.4
+        },
+        {
+            "vehicle": "TRK098",
+            "idle_hours": 0.9
+        },
+        {
+            "vehicle": "TRK099",
+            "idle_hours": 0.0
+        },
+        {
+            "vehicle": "TRK100",
+            "idle_hours": 1.1
+        },
+        {
+            "vehicle": "TRK101",
+            "idle_hours": 1.7
+        },
+        {
+            "vehicle": "TRK102",
+            "idle_hours": 2.1
+        },
+        {
+            "vehicle": "TRK103",
+            "idle_hours": 0.3
+        },
+        {
+            "vehicle": "TRK104",
+            "idle_hours": 0.1
+        },
+        {
+            "vehicle": "TRK105",
+            "idle_hours": 1.4
+        },
+        {
+            "vehicle": "TRK106",
+            "idle_hours": 0.6
+        },
+        {
+            "vehicle": "TRK107",
+            "idle_hours": 10.4
+        },
+        {
+            "vehicle": "TRK108",
+            "idle_hours": 0.8
+        },
+        {
+            "vehicle": "TRK109",
+            "idle_hours": 0.3
+        },
+        {
+            "vehicle": "TRK110",
+            "idle_hours": 0.8
+        },
+        {
+            "vehicle": "TRK111",
+            "idle_hours": 0.2
+        },
+        {
+            "vehicle": "TRK112",
+            "idle_hours": 0.3
+        },
+        {
+            "vehicle": "TRK113",
+            "idle_hours": 1.7
+        },
+        {
+            "vehicle": "TRK114",
+            "idle_hours": 2.4
+        },
+        {
+            "vehicle": "TRK115",
+            "idle_hours": 1.9
+        },
+        {
+            "vehicle": "TRK116",
+            "idle_hours": 6.8
+        },
+        {
+            "vehicle": "TRK117",
+            "idle_hours": 7.5
+        },
+        {
+            "vehicle": "TRK118",
+            "idle_hours": 2.4
+        },
+        {
+            "vehicle": "TRK119",
+            "idle_hours": 6.4
+        },
+        {
+            "vehicle": "TRK120",
+            "idle_hours": 2.4
+        },
+        {
+            "vehicle": "TRK121",
+            "idle_hours": 0.2
+        },
+        {
+            "vehicle": "TRK122",
+            "idle_hours": 1.4
+        },
+        {
+            "vehicle": "TRK123",
+            "idle_hours": 0.9
+        },
+        {
+            "vehicle": "TRK124",
+            "idle_hours": 0.5
+        },
+        {
+            "vehicle": "TRK125",
+            "idle_hours": 10.6
+        },
+        {
+            "vehicle": "TRK126",
+            "idle_hours": 1.7
+        },
+        {
+            "vehicle": "TRK127",
+            "idle_hours": 1.5
+        },
+        {
+            "vehicle": "TRK128",
+            "idle_hours": 10.1
+        },
+        {
+            "vehicle": "TRK129",
+            "idle_hours": 0.3
+        },
+        {
+            "vehicle": "TRK130",
+            "idle_hours": 0.2
+        },
+        {
+            "vehicle": "TRK131",
+            "idle_hours": 0.5
+        },
+        {
+            "vehicle": "TRK132",
+            "idle_hours": 2.2
+        },
+        {
+            "vehicle": "TRK133",
+            "idle_hours": 0.4
+        },
+        {
+            "vehicle": "TRK134",
+            "idle_hours": 0.0
+        },
+        {
+            "vehicle": "TRK135",
+            "idle_hours": 0.4
+        },
+        {
+            "vehicle": "TRK136",
+            "idle_hours": 5.3
+        },
+        {
+            "vehicle": "TRK137",
+            "idle_hours": 9.0
+        },
+        {
+            "vehicle": "TRK138",
+            "idle_hours": 3.2
+        },
+        {
+            "vehicle": "TRK139",
+            "idle_hours": 0.6
+        },
+        {
+            "vehicle": "TRK140",
+            "idle_hours": 0.4
+        },
+        {
+            "vehicle": "TRK141",
+            "idle_hours": 9.7
+        },
+        {
+            "vehicle": "TRK142",
+            "idle_hours": 1.9
+        },
+        {
+            "vehicle": "TRK143",
+            "idle_hours": 1.9
+        },
+        {
+            "vehicle": "TRK144",
+            "idle_hours": 0.3
+        },
+        {
+            "vehicle": "TRK145",
+            "idle_hours": 2.4
+        },
+        {
+            "vehicle": "TRK146",
+            "idle_hours": 10.1
+        },
+        {
+            "vehicle": "TRK147",
+            "idle_hours": 1.3
+        },
+        {
+            "vehicle": "TRK148",
+            "idle_hours": 2.4
+        },
+        {
+            "vehicle": "TRK149",
+            "idle_hours": 7.4
+        },
+        {
+            "vehicle": "TRK150",
+            "idle_hours": 1.7
+        },
+        {
+            "vehicle": "TRK151",
+            "idle_hours": 2.3
+        },
+        {
+            "vehicle": "TRK152",
+            "idle_hours": 3.8
+        },
+        {
+            "vehicle": "TRK153",
+            "idle_hours": 0.2
+        },
+        {
+            "vehicle": "TRK154",
+            "idle_hours": 1.6
+        },
+        {
+            "vehicle": "TRK155",
+            "idle_hours": 0.8
+        },
+        {
+            "vehicle": "TRK156",
+            "idle_hours": 1.3
+        },
+        {
+            "vehicle": "TRK157",
+            "idle_hours": 1.5
+        },
+        {
+            "vehicle": "TRK158",
+            "idle_hours": 9.3
+        },
+        {
+            "vehicle": "TRK159",
+            "idle_hours": 1.6
+        },
+        {
+            "vehicle": "TRK160",
+            "idle_hours": 1.8
+        },
+        {
+            "vehicle": "TRK161",
+            "idle_hours": 1.1
+        },
+        {
+            "vehicle": "TRK162",
+            "idle_hours": 0.8
+        },
+        {
+            "vehicle": "TRK163",
+            "idle_hours": 1.0
+        },
+        {
+            "vehicle": "TRK164",
+            "idle_hours": 6.9
+        },
+        {
+            "vehicle": "TRK165",
+            "idle_hours": 0.9
+        },
+        {
+            "vehicle": "TRK166",
+            "idle_hours": 11.3
+        },
+        {
+            "vehicle": "TRK167",
+            "idle_hours": 10.5
+        },
+        {
+            "vehicle": "TRK168",
+            "idle_hours": 4.0
+        },
+        {
+            "vehicle": "TRK169",
+            "idle_hours": 2.0
+        },
+        {
+            "vehicle": "TRK170",
+            "idle_hours": 1.5
+        },
+        {
+            "vehicle": "TRK171",
+            "idle_hours": 0.8
+        },
+        {
+            "vehicle": "TRK172",
+            "idle_hours": 6.2
+        },
+        {
+            "vehicle": "TRK173",
+            "idle_hours": 1.9
+        },
+        {
+            "vehicle": "TRK174",
+            "idle_hours": 1.8
+        },
+        {
+            "vehicle": "TRK175",
+            "idle_hours": 1.5
+        },
+        {
+            "vehicle": "TRK176",
+            "idle_hours": 1.4
+        },
+        {
+            "vehicle": "TRK177",
+            "idle_hours": 1.6
+        },
+        {
+            "vehicle": "TRK178",
+            "idle_hours": 0.3
+        },
+        {
+            "vehicle": "TRK179",
+            "idle_hours": 0.9
+        },
+        {
+            "vehicle": "TRK180",
+            "idle_hours": 1.4
+        },
+        {
+            "vehicle": "TRK181",
+            "idle_hours": 2.1
+        },
+        {
+            "vehicle": "TRK182",
+            "idle_hours": 2.0
+        },
+        {
+            "vehicle": "TRK183",
+            "idle_hours": 1.6
+        },
+        {
+            "vehicle": "TRK184",
+            "idle_hours": 11.4
+        },
+        {
+            "vehicle": "TRK185",
+            "idle_hours": 0.7
+        },
+        {
+            "vehicle": "TRK186",
+            "idle_hours": 9.4
+        },
+        {
+            "vehicle": "TRK187",
+            "idle_hours": 0.8
+        },
+        {
+            "vehicle": "TRK188",
+            "idle_hours": 10.8
+        },
+        {
+            "vehicle": "TRK189",
+            "idle_hours": 1.0
+        },
+        {
+            "vehicle": "TRK190",
+            "idle_hours": 8.7
+        },
+        {
+            "vehicle": "TRK191",
+            "idle_hours": 9.7
+        },
+        {
+            "vehicle": "TRK192",
+            "idle_hours": 1.0
+        },
+        {
+            "vehicle": "TRK193",
+            "idle_hours": 0.9
+        },
+        {
+            "vehicle": "TRK194",
+            "idle_hours": 1.9
+        },
+        {
+            "vehicle": "TRK195",
+            "idle_hours": 0.2
+        },
+        {
+            "vehicle": "TRK196",
+            "idle_hours": 4.5
+        },
+        {
+            "vehicle": "TRK197",
+            "idle_hours": 1.7
+        },
+        {
+            "vehicle": "TRK198",
+            "idle_hours": 1.7
+        },
+        {
+            "vehicle": "TRK199",
+            "idle_hours": 1.1
+        },
+        {
+            "vehicle": "TRK200",
+            "idle_hours": 1.9
+        }
+    ]
+}

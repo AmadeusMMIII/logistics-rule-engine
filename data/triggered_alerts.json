@@ -1,0 +1,446 @@
+[
+    {
+        "type": "OVERSPEED",
+        "severity": "CRITICAL",
+        "entity_id": "TRK004",
+        "metric_value": 104
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "WARNING",
+        "entity_id": "TRK007",
+        "metric_value": 87
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "WARNING",
+        "entity_id": "TRK009",
+        "metric_value": 87
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "WARNING",
+        "entity_id": "TRK018",
+        "metric_value": 93
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "CRITICAL",
+        "entity_id": "TRK019",
+        "metric_value": 108
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "WARNING",
+        "entity_id": "TRK024",
+        "metric_value": 90
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "CRITICAL",
+        "entity_id": "TRK028",
+        "metric_value": 102
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "CRITICAL",
+        "entity_id": "TRK061",
+        "metric_value": 101
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "CRITICAL",
+        "entity_id": "TRK077",
+        "metric_value": 101
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "WARNING",
+        "entity_id": "TRK083",
+        "metric_value": 91
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "CRITICAL",
+        "entity_id": "TRK091",
+        "metric_value": 105
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "CRITICAL",
+        "entity_id": "TRK093",
+        "metric_value": 96
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "WARNING",
+        "entity_id": "TRK109",
+        "metric_value": 91
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "WARNING",
+        "entity_id": "TRK110",
+        "metric_value": 88
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "CRITICAL",
+        "entity_id": "TRK117",
+        "metric_value": 102
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "WARNING",
+        "entity_id": "TRK122",
+        "metric_value": 93
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "CRITICAL",
+        "entity_id": "TRK129",
+        "metric_value": 106
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "CRITICAL",
+        "entity_id": "TRK131",
+        "metric_value": 101
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "WARNING",
+        "entity_id": "TRK133",
+        "metric_value": 83
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "WARNING",
+        "entity_id": "TRK138",
+        "metric_value": 93
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "WARNING",
+        "entity_id": "TRK139",
+        "metric_value": 93
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "WARNING",
+        "entity_id": "TRK148",
+        "metric_value": 91
+    },
+    {
+        "type": "OVERSPEED",
+        "severity": "CRITICAL",
+        "entity_id": "TRK149",
+        "metric_value": 99
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Rice #734",
+        "metric_value": 19
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Rice #214",
+        "metric_value": 5
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Sugar #230",
+        "metric_value": 12
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Sugar #993",
+        "metric_value": 16
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Coffee #525",
+        "metric_value": 14
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Sugar #588",
+        "metric_value": 12
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "CRITICAL",
+        "entity_id": "Flour #954",
+        "metric_value": 1
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Rice #872",
+        "metric_value": 8
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Water #959",
+        "metric_value": 5
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Sugar #444",
+        "metric_value": 11
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "CRITICAL",
+        "entity_id": "Medicine #380",
+        "metric_value": 2
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Milk #993",
+        "metric_value": 10
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Milk #941",
+        "metric_value": 16
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Flour #690",
+        "metric_value": 6
+    },
+    {
+        "type": "LOW_STOCK",
+        "severity": "WARNING",
+        "entity_id": "Coffee #523",
+        "metric_value": 17
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK009",
+        "metric_value": 11.9
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK011",
+        "metric_value": 10.5
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK024",
+        "metric_value": 7.9
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK030",
+        "metric_value": 9.7
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK040",
+        "metric_value": 7.3
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "WARNING",
+        "entity_id": "TRK047",
+        "metric_value": 3.7
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK058",
+        "metric_value": 10.9
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "WARNING",
+        "entity_id": "TRK086",
+        "metric_value": 5.7
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK088",
+        "metric_value": 7.9
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK094",
+        "metric_value": 11.7
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK095",
+        "metric_value": 11.7
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK107",
+        "metric_value": 10.4
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "WARNING",
+        "entity_id": "TRK116",
+        "metric_value": 6.8
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK117",
+        "metric_value": 7.5
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "WARNING",
+        "entity_id": "TRK119",
+        "metric_value": 6.4
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK125",
+        "metric_value": 10.6
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK128",
+        "metric_value": 10.1
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "WARNING",
+        "entity_id": "TRK136",
+        "metric_value": 5.3
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK137",
+        "metric_value": 9.0
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "WARNING",
+        "entity_id": "TRK138",
+        "metric_value": 3.2
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK141",
+        "metric_value": 9.7
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK146",
+        "metric_value": 10.1
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK149",
+        "metric_value": 7.4
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "WARNING",
+        "entity_id": "TRK152",
+        "metric_value": 3.8
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK158",
+        "metric_value": 9.3
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "WARNING",
+        "entity_id": "TRK164",
+        "metric_value": 6.9
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK166",
+        "metric_value": 11.3
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK167",
+        "metric_value": 10.5
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "WARNING",
+        "entity_id": "TRK168",
+        "metric_value": 4.0
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "WARNING",
+        "entity_id": "TRK172",
+        "metric_value": 6.2
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK184",
+        "metric_value": 11.4
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK186",
+        "metric_value": 9.4
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK188",
+        "metric_value": 10.8
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK190",
+        "metric_value": 8.7
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "CRITICAL",
+        "entity_id": "TRK191",
+        "metric_value": 9.7
+    },
+    {
+        "type": "IDLE_FLEET",
+        "severity": "WARNING",
+        "entity_id": "TRK196",
+        "metric_value": 4.5
+    }
+]
