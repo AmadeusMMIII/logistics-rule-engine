@@ -13,7 +13,7 @@ Vehicle/Inventory/Fleet Logs ──> Rule-Based Engine ──> Severity Matrix �
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/logistics-rule-engine.git](https://github.com/YOUR_USERNAME/logistics-rule-engine.git)
+   git clone [[https://github.com/YOUR_USERNAME/logistics-rule-engine.git](https://github.com/YOUR_USERNAME/logistics-rule-engine.git)](https://github.com/AmadeusMMIII/logistics-rule-engine.git)
    cd logistics-rule-engine
 
 2. Run the application engine:
